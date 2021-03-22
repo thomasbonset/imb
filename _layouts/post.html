@@ -26,7 +26,7 @@ layout: body
 						{% include blog_post_categories.html categories=page.categories container_class='post__cat' %}
 						<span class="post__meta-sep"> &middot; </span>
 					{% endif %}
-					<span class="post__date"><time datetime="{{ page.date | date: '%Y-%m-%d %H:%M' }}">{{ page.date | date: '%B %d, %Y' }}</time></span>
+					<span class="post__date"><time datetime="{{ page.date | date: '%Y' }}">{{ page.date | date: '%Y' }}</time></span>
 				</div>
 				<h1 class="post__title mt-0">{{ page.title }}</h1>
 				{% assign subtitle_is_not_empty = page.subtitle | is_not_empty %}

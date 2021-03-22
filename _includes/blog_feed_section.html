@@ -52,7 +52,7 @@
 			{% endif %}
 
 			{% assign posts_all = '/blog' | get_pages %}
-			{% assign posts_sorted = posts_all | sort: 'date' | reverse %}
+			{% assign posts_sorted = posts_all | sort: 'order' | reverse %}
 
 			{% assign show_recent = section.show_recent %}
 			{% assign recent_count = section.recent_count %}

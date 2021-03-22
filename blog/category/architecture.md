@@ -1,9 +1,9 @@
 ---
-title: Références
+title: Architecture
 sections:
   - type: hero_section
-    title: Références
-    subtitle: Missions actuelles et plus anciennes
+    title: Architecture
+    subtitle: L'art majeur de concevoir des espaces et de bâtir des édifices
     align: center
     padding_top: medium
     padding_bottom: none
@@ -12,7 +12,8 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    show_date: false
+    category: _data/categories/architecture.yaml
+    show_date: true
     show_categories: true
     show_author: false
     show_excerpt: false
@@ -21,17 +22,17 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Blog
-  description: This is the blog page
+  title: Posts in Architecture
+  description: This is the author archive page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Posts in Architecture
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: This is the author archive page
       keyName: property
     - name: 'og:image'
       value: images/classic/post-5.png
@@ -40,9 +41,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Blog
+      value: Posts in Tutorials
     - name: 'twitter:description'
-      value: This is the blog page
+      value: This is the author archive page
     - name: 'twitter:image'
       value: images/classic/post-5.png
       relativeUrl: true

@@ -1,23 +1,21 @@
 ---
-title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+title: Expertise ergonomique pour le déménagement d'une rédaction
 subtitle: >-
-  Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
-  videre, nihil tranquilli potest.
-date: '2020-04-16'
-author: _data/team/dianne-ameter.yaml
+  Etude architecturale et ergonomique sur un projet de déménagement d'une rédaction
+date: '2021-01-01'
+order : 2
 categories:
-  - _data/categories/tutorials.yaml
-  - _data/categories/general.yaml
+  - _data/categories/architecture.yaml
+  - _data/categories/ergonomie.yaml
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti
-  magnitudine obruebantur. Duo Reges: constructio interrete.
-thumb_image: images/classic/post-1.png
+   Etude architecturale et ergonomique sur un projet de déménagement d'une rédaction
+thumb_image: images/refs/new-york-times-newspaper-1159719_960_720.webp
 thumb_image_alt: Post 1 placeholder image
-image: images/classic/post-1.png
+image: images/refs/new-york-times-newspaper-1159719_960_720.webp
 image_alt: Post 1 placeholder image
 image_position: right
 seo:
-  title: Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: Expertise ergonomique pour le déménagement d'une rédaction
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
   extra:
     - name: 'og:type'
@@ -45,9 +43,13 @@ seo:
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti magnitudine obruebantur. Duo Reges: constructio interrete. An hoc usque quaque, aliter in vita? Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere. Quo plebiscito decreta a senatu est consuli quaestio Cn. Illud non continuo, ut aeque incontentae. Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest. Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum certum vitium consuetudo Latina traduceret.
+La Crise sanitaire de 2020/2021 a bouleversé les habitudes de travail de nombreuses personnes, spécialement dans le tertiaire.
 
-## Sed Ille, UT Dixi, Vitiose
+En partenariat avec l'agence [Apex-isast](https://www.apex-isast.fr/), l'objectif de la mission est d'aider le CSE d'une rédaction de magazines à anticiper le déménagement projeté par la direction, en prenant en compte les conditions de travail de chacun des postes, en l'adaptant et en l'améliorant.
+
+Cette expertise se déroule en trois étapes.
+
+### Sed Ille, UT Dixi, Vitiose
 
 Utrum igitur tibi litteram videor an totas paginas commovere? Potius inflammat, ut coercendi magis quam dedocendi esse videantur. Ne in odium veniam, si amicum destitero tueri. Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Quid ergo aliud intellegetur nisi uti ne quae pars naturae neglegatur? Quis istud, quaeso, nesciebat? Primum divisit ineleganter; Hoc unum Aristo tenuit: praeter vitia atque virtutes negavit rem esse ullam aut fugiendam aut expetendam. Et ille ridens: Video, inquit, quid agas; In his igitur partibus duabus nihil erat, quod Zeno commutare gestiret.
 
