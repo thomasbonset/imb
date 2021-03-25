@@ -2,80 +2,62 @@
 title: Features
 sections:
   - type: grid_section
-    title: Prestations proposées par IMB Archi Ergo
+    title: Prestations proposées par IMB&nbsp;Archi&nbsp;Ergo
     grid_items:
-      - title: Création et conception
+      - title: Création et conception architecturale
         title_align: left
         content: >-
-          Créer et concevoir des espaces de vie
+          Créer et concevoir des espaces de vie et de travail, suivre la réalisation et réceptionner les travaux.
         content_align: left
         actions:
           - label: En savoir plus
-            url: /style-guide
+            url: /prestations/creation-conception
             style: link
             has_icon: true
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-1.svg
+        image: images/architecture.png
         image_alt: Item 1 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Construction et maîtrise d'oeuvre
+      - title: Expertise en ergonomie
         title_align: left
         content: >-
-          Suivre un projet...
+          Expertise egonomique des espaces de travail dans le but d’améliorer les conditions de travail.
         content_align: left
         actions:
           - label: En savoir plus
-            url: /style-guide
+            url: /prestations/expertise-ergonomie
             style: link
             has_icon: true
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-2.svg
+        image: images/siege.png
         image_alt: Item 2 icon
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Conseil et expertise en architecture
+      - title: Conseil en architecture et en ergonomie
         title_align: left
         content: >-
-          Bla bla
+          Préconiser et accompagner tous vos projets
         content_align: left
         actions:
           - label: En savoir plus
-            url: /style-guide
+            url: /prestations/conseil
             style: link
             has_icon: true
             icon: arrow-right
             icon_position: center
         actions_align: left
-        image: images/classic/icon-3.svg
+        image: images/conseil.png
         image_alt: Item 3 icon
         image_position: top
         image_align: left
-        image_has_padding: true
-      - title: Conseil et expertise en ergonomie
-        title_align: left
-        content: >-
-          Bla bla
-        content_align: left
-        actions:
-          - label: En savoir plus
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/classic/icon-3.svg
-        image_alt: Item 4 icon
-        image_position: top
-        image_align: left
-        image_has_padding: true
+        image_has_padding: trued
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium

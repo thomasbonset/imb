@@ -13,7 +13,7 @@ sections:
     enable_cards: true
     show_recent: false
     category: _data/categories/architecture.yaml
-    show_date: true
+    show_date: false
     show_categories: true
     show_author: false
     show_excerpt: false
