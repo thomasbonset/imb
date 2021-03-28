@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Créer et construire des espaces de travail adaptés à tous
-    subtitle: Où l'architecture, l'art de concevoir et de bâtir, se confronte à l'ergonomie, veiller au bien-être physique et moral de chacun
+    subtitle: Où l'architecture, l'art de concevoir et de bâtir, se confronte à l'ergonomie, veiller au bien-être physique et moral de chacun.<BR/>Architecte HMONP et Ergonome indépendante.
     actions:
       - label: Prestations
         url: /prestations
@@ -23,20 +23,20 @@ sections:
     padding_bottom: large
     background_color: primary
 seo:
-  title: IMB Archi Ergo
+  title: IMB Architecture Ergonomie
   description: Créer et construire des espaces de travail adaptés à tous
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit DIY Theme
+      value: IMB Architecture Ergonomie
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: IMB Architecture Ergonomie
       keyName: property
     - name: 'og:image'
-      value: images/diy-preview.png
+      value: IMB Architecture Ergonomie
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -44,7 +44,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit DIY Theme
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: IMB Architecture Ergonomie
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true

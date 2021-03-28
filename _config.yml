@@ -35,9 +35,7 @@ footer:
       icon_position: center
       new_window: true
   content: >-
-    &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
-    href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
-    rel="noopener">Stackbit</a>.
+    &copy; Imb Archi Ergo. All rights reserved. Created with StackBit & Jekyll. OVH Host.
 sass:
   indentWidth: 4
   style: expanded
@@ -57,4 +55,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
-domain: 'http://localhost:4000'
+domain: 'https://imb-archi-ergo.com/'

@@ -1,55 +1,45 @@
 ---
-title: Cur Ipse Pythagoras Et Aegyptum Lustravit
+title: Rénovation et aménagement de plateaux de bureaux
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
-date: '2020-05-28'
-author: _data/team/gustav-purpleson.yaml
+  Direction des études pour la rénovation et
+  aménagement de plateaux de bureaux et création
+  d’un ERP type R
+date: '2016-01-01'
+order : 3
 categories:
-  - _data/categories/general.yaml
-tags:
-  - _data/tags/stackbit.yaml
-  - _data/tags/jamstack.yaml
-excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
-thumb_image: images/classic/post-3.png
-thumb_image_alt: Post 3 placeholder image
-image: images/classic/post-3.png
-image_alt: Post 3 placeholder image
-image_position: top
+  - _data/categories/architecture.yaml
+thumb_image: images/refs/i3d151100065.jpg
+thumb_image_alt: Post 2 placeholder image
+image: images/refs/i3d151100065.jpg
+image_alt: Post 2 placeholder image
+image_position: left
 seo:
-  title: Cur Ipse Pythagoras Et Aegyptum Lustravit
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  title: Réhabilitation lourde d’un ensemble immobilier
+  description: Quae diligentissime contra Aristonem dicuntur a Chryippo
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
       keyName: property
     - name: 'og:image'
-      value: images/classic/post-3.png
+      value: images/classic/post-2.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: 'Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: Quae diligentissime contra Aristonem dicuntur a Chryippo
     - name: 'twitter:image'
-      value: images/classic/post-3.png
+      value: images/classic/post-2.png
       relativeUrl: true
 layout: post
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non est ista, inquam, Piso, magna dissensio. Callipho ad virtutem nihil adiunxit nisi voluptatem, Diodorus vacuitatem doloris. Aut haec tibi, Torquate, sunt vituperanda aut patrocinium voluptatis repudiandum. Invidiosum nomen est, infame, suspectum. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Duo Reges: constructio interrete. Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Quae fere omnia appellantur uno ingenii nomine, easque virtutes qui habent, ingeniosi vocantur. Ut aliquid scire se gaudeant?
 
-Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse. Quid igitur, inquit, eos responsuros putas? Age, inquies, ista parva sunt. Negabat igitur ullam esse artem, quae ipsa a se proficisceretur;
-
-Cur ipse Pythagoras et Aegyptum lustravit et Persarum magos adiit? Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt. Quorum sine causa fieri nihil putandum est. Sit enim idem caecus, debilis. Qui-vere falsone, quaerere mittimus-dicitur oculis se privasse; Intrandum est igitur in rerum naturam et penitus quid ea postulet pervidendum; Urgent tamen et nihil remittunt. Quae contraria sunt his, malane? Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Atque his de rebus et splendida est eorum et illustris oratio. Haec para/doca illi, nos admirabilia dicamus. Non est ista, inquam, Piso, magna dissensio.

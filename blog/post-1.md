@@ -3,7 +3,7 @@ title: Expertise ergonomique pour le déménagement d'une rédaction
 subtitle: >-
   Etude architecturale et ergonomique sur un projet de déménagement d'une rédaction
 date: '2021-01-01'
-order : 2
+order : 5
 categories:
   - _data/categories/architecture.yaml
   - _data/categories/ergonomie.yaml
@@ -51,14 +51,14 @@ Cette expertise se déroule en trois étapes.
 
 ### Collecter les informations
 
-Une visite des locaux a été nécessaire, afin de se rendre compte des 
+Une visite des locaux a été nécessaire, afin de se rendre compte de l'environnement de travail de chacun.
+
+En deuxième lieu, chaque corps de métier a été interviewé, afin de connaitre les conditions de travail et les attentes de chacun des travailleurs de la rédaction.
 
 ### Analyser les informations
 
-bla bla 
+Toutes les données récoltée sont recoupées, mises en perspective, et ce travail d'analyse débouche sur un document synthétique présentant les recommandations.
 
 ### Présenter les conclusions de l'analyse
-Expressa vero in iis aetatibus, quae iam confirmatae sunt.
-Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Quid enim de amicitia statueris utilitatis causa expetenda vides. Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Quid enim possumus hoc agere divinius? Dic in quovis conventu te omnia facere, ne doleas. Omnes enim iucundum motum, quo sensus hilaretur. Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant. Hoc loco tenere se Triarius non potuit. Nunc haec primum fortasse audientis servire debemus. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Isto modo ne improbos quidem, si essent boni viri. Quid censes in Latino fore?
 
-Quae diligentissime contra Aristonem dicuntur a Chryippo. Huius ego nunc auctoritatem sequens idem faciam. Quare obscurentur etiam haec, quae secundum naturam esse dicimus, in vita beata; Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers? Huius, Lyco, oratione locuples, rebus ipsis ielunior. Aliter homines, aliter philosophos loqui putas oportere? Qui autem esse poteris, nisi te amor ipse ceperit? Aliter autem vobis placet. Compensabatur, inquit, cum summis doloribus laetitia.
+Une présentation de la préconisation ergonomique sera faite au CSE, accompagnée du document synthétisant l'ensemble de l'analyse.

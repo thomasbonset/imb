@@ -7,7 +7,7 @@ subtitle: >-
   ensemble immobilier sur 10 niveaux posé sur
   un sous-sol de 4 niveaux
 date: '2018-01-01'
-order : 1
+order : 4
 categories:
   - _data/categories/architecture.yaml
 thumb_image: images/refs/skyscraper-3196390_960_720.webp
@@ -43,5 +43,3 @@ seo:
       relativeUrl: true
 layout: post
 ---
-
-
