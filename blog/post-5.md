@@ -7,7 +7,6 @@ subtitle: >-
 date: '2010-01-01'
 order : 1
 categories:
-  - _data/categories/architecture.yaml
   - _data/categories/ergonomie.yaml
 thumb_image: images/refs/copier-17310_960_720.jpg
 thumb_image_alt: Post 2 placeholder image
