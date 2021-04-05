@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Créer et construire des espaces de travail adaptés à tous
+    title: Concevoir des espaces ergonomiques !
     subtitle: Où l'architecture, l'art de concevoir et de bâtir, se confronte à l'ergonomie, veiller au bien-être physique et moral de chacun.<BR/>Architecte HMONP et Ergonome indépendante.
     actions:
       - label: Prestations

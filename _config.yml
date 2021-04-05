@@ -6,12 +6,12 @@ collections:
     permalink: '/posts/:title/'
 layout_type: boxed
 style: classic
-palette: green
+palette: blue
 mode: light
 base_font: serif
 header:
   title: IMB Archi Ergo
-  logo: images/imb_logo.jpg
+  logo: images/imb_logo.png
   logo_alt: IMB Archi Ergo
   has_secondary_nav: true
   secondary_nav_links:
